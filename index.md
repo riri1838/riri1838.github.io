@@ -33,7 +33,7 @@ _Developed a robot with a gripper mechanism and gyro stabilization._
 ## **EDUCATION**
 
 | Degree  | Institute |Time |
-| ------------- | ------------- |------------- |
+| --- | --- |---|
 | Bachelor of Technology - B.Tech in Computer Science | Malaviya National Institute of Technology, Jaipur  |January 2023 - December 2027 (Expected)  |
 | High School in Science  | Pace Junior Science College  |January 2021 - December 2022  |
 | High School | The Bishop’s School, Pune |January 2018 - December 2021  |
