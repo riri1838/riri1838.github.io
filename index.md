@@ -31,7 +31,7 @@ _Developed a robot with a gripper mechanism and gyro stabilization._
 - Integrated gyroscope for stable movement.
 - Programmed I2C communication for gripper control.
 ## **EDUCATION**
-![Uploading image.png…]()
+![Uploading image.png…](https://img.freepik.com/free-vector/vector-education-logo_779267-2079.jpg)
 
 | Degree  | Institute |Time |
 | --- | --- |---|
