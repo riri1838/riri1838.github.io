@@ -30,6 +30,7 @@ _Developed a robot with a gripper mechanism and gyro stabilization._
 - Built the gripper with motors and servos.
 - Integrated gyroscope for stable movement.
 - Programmed I2C communication for gripper control.
+![symbol]([https://myoctocat.com/assets/images/base-octocat.svg](https://img.freepik.com/free-vector/vector-education-logo_779267-2079.jpg))
 ## **EDUCATION**
 
 | Degree  | Institute |Time |
