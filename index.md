@@ -1,4 +1,4 @@
-# **MRUNAL SHAH**`
+# **MRUNAL SHAH**
 **Student at National Institute of Technology, Jaipur**
 Pursuing B.Tech in Computer Science Engineering
 
