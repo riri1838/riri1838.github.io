@@ -1,8 +1,6 @@
 # **MRUNAL SHAH**
 **Student at National Institute of Technology, Jaipur**
 Pursuing B.Tech in Computer Science Engineering
-
-![profile](https://img.freepik.com/premium-photo/professional-photo-linkedin-profile-picture-beautiful-looking-woman-light-color_1078199-10524.jpg )
 # **PROJECTS**
 ##### **Micromouse Project**
 _Developed a maze-solving robot using STM32 microcontroller._
